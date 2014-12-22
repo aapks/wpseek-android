@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.wpseek.mobile" android-versionCode="11" version="1.2.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+	<name>WPSeek Mobile</name>
+	<description>
+		WordPress Function Reference On The Go.
+	</description>
+	<author href="http://wpseek.com" email="office@wpseek.com">
+		Oliver Schlöbe
+	</author>
+	<content src="index.html" />
+	<preference name="LoadUrlTimeoutValue" value="10000"/>
+	<preference name="android-minSdkVersion" value="10"/>
+	<preference name="android-targetSdkVersion" value="21"/>
+	<access origin="*" />
+	<platform name="android">
+		<icon src="icon.png" />
+		<icon src="res/icon/android/icon-android-ldpi.png" density="ldpi" />
+		<icon src="res/icon/android/icon-android-mdpi.png" density="mdpi" />
+		<icon src="res/icon/android/icon-android-hdpi.png" density="hdpi" />
+		<icon src="res/icon/android/icon-android-xhdpi.png" density="xhdpi" />
+     </platform>
+</widget>
