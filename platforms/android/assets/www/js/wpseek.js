@@ -15,6 +15,7 @@ var wpseek = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
+        window.open = cordova.InAppBrowser.open;
     	wpseek.receivedEvent('deviceready');
     },
     // Update DOM on a Received Event
@@ -29,7 +30,9 @@ var wpseek = {
         	listeningElement.setAttribute('style', 'display:none;');
         	errorElement.setAttribute('style', 'display:block;');
         } else {
-        	navigator.app.loadUrl('http://android.wpseek.com/?version=1.2.7', { openExternal: false });
+        	window.setTimeout(function() {
+        	    window.open('http://android.wpseek.com/?version=1.2.8', '_blank', 'location=no');
+        	}, 500);
         }
     }
 };

@@ -1,0 +1,18 @@
+{
+  "android": {
+    "debug": {
+      "keystore": "D:\\Dropbox\\projects\\Android\\Misc\\keystore.keystore",
+      "storePassword": "",
+      "alias": "alphawolf",
+      "password" : "",
+      "keystoreType": ""
+    },
+    "release": {
+      "keystore": "D:\\Dropbox\\projects\\Android\\Misc\\keystore.keystore",
+      "storePassword": "",
+      "alias": "alphawolf",
+      "password" : "",
+      "keystoreType": ""
+    }
+  }
+}

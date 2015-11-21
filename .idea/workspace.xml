@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="871ecb47-42a5-40f6-a828-108262223f0a" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\Address.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\Connection.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\ConnectionPool.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\Dispatcher.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\Failure.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\HttpResponseCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\Job.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\MediaType.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\OkAuthenticator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\OkHttpClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\OkResponseCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\Request.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\Response.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\ResponseSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\Route.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\RouteDatabase.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\TunnelRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\AbstractOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\Base64.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\DiskLruCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\Dns.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\FaultRecoveringOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\NamedRunnable.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\Platform.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\StrictLineReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\Util.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\AbstractHttpInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\HeaderParser.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\HttpAuthenticator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\HttpDate.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\HttpEngine.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\HttpTransport.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\HttpURLConnectionImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\HttpsEngine.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\HttpsURLConnectionImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\OkResponseCacheAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\Policy.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\RawHeaders.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\RequestHeaders.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\ResponseHeaders.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\RetryableOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\RouteSelector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\SpdyTransport.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\Transport.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\http\UnknownLengthHttpInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\ErrorCode.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\FrameReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\FrameWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\HeadersMode.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\Hpack.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\Http20Draft06.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\IncomingStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\NameValueBlockReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\Ping.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\Settings.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\Spdy3.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\SpdyConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\SpdyStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\spdy\Variant.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\tls\DistinguishedNameParser.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\com\squareup\okhttp\internal\tls\OkHostnameVerifier.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\App.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\CordovaChromeClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\CordovaUriHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\CordovaWebViewClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\DirectoryManager.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\DroidGap.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\ExifHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\FileHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\IceCreamCordovaWebViewClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\JSONUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\LinearLayoutSoftKeyboardDetect.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\CordovaLib\src\org\apache\cordova\ScrollEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\android\notification.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\notification.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www\Connection.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\assets\www\plugins\org.apache.cordova.network-information\www\network.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\platforms\android\src\org\apache\cordova\dialogs\Notification.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\.fetch.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\RELEASENOTES.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\de\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\es\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\fr\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\it\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\ja\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\ko\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\pl\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\ru\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\doc\zh\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\package.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\android\Device.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\blackberry10\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\browser\DeviceProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\firefoxos\DeviceProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\ios\CDVDevice.h" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\ios\CDVDevice.m" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\tizen\DeviceProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\ubuntu\device.cpp" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\ubuntu\device.h" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\ubuntu\device.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\windows8\DeviceProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\windows\DeviceProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\src\wp\Device.cs" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\tests\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\tests\tests.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.device\www\device.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\.fetch.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\RELEASENOTES.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\de\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\es\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\fr\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\it\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\ja\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\ko\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\pl\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\ru\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\doc\zh\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\package.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\android\Notification.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\blackberry10\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\firefoxos\notification.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\ios\CDVNotification.bundle\beep.wav" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\ios\CDVNotification.h" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\ios\CDVNotification.m" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\ubuntu\notification.cpp" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\ubuntu\notification.h" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\ubuntu\notification.qml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\windows8\NotificationProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\wp\Notification.cs" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\wp\NotificationBox.xaml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\wp\NotificationBox.xaml.cs" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\src\wp\notification-beep.wav" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\tests\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\tests\tests.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\android\notification.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\blackberry10\beep.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\blackberry10\notification-beep.wav" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\firefoxos\danger-press.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\firefoxos\danger.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\firefoxos\default.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\firefoxos\gradient.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\firefoxos\notification.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\firefoxos\pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\firefoxos\recommend.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.dialogs\www\notification.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\.fetch.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\RELEASENOTES.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\de\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\es\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\fr\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\it\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\ja\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\ko\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\pl\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\ru\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\doc\zh\index.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\package.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\android\NetworkManager.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\blackberry10\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\browser\NetworkProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\firefoxos\NetworkProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\ios\CDVConnection.h" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\ios\CDVConnection.m" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\ios\CDVReachability.h" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\ios\CDVReachability.m" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\tizen\NetworkProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\ubuntu\network_information.cpp" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\ubuntu\network_information.h" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\windows8\NetworkInfoProxy.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\src\wp\NetworkStatus.cs" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\tests\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\tests\tests.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\www\Connection.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\plugins\org.apache.cordova.network-information\www\network.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/Config.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/Config.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ConfigXmlParser.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ConfigXmlParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaBridge.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaBridge.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPreferences.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPreferences.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaResourceApi.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaResourceApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/src/org/apache/cordova/device/Device.java" afterPath="$PROJECT_DIR$/platforms/android/src/org/apache/cordova/device/Device.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ExposedJsApi.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ExposedJsApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/NativeToJsMessageQueue.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/NativeToJsMessageQueue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginEntry.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginEntry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginResult.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/android.json" afterPath="$PROJECT_DIR$/plugins/android.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/android_sdk_version.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/android_sdk_version.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/appinfo.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/appinfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build.gradle" afterPath="$PROJECT_DIR$/platforms/android/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build.gradle" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/build.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/build.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/check_reqs.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/check_reqs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova.js" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/device.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/device.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/emulator.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/emulator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/exec.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/exec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/log.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/project.properties" afterPath="$PROJECT_DIR$/platforms/android/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/project.properties" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/run.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/run.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/settings.gradle" afterPath="$PROJECT_DIR$/platforms/android/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/lib/spawn.js" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/spawn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/cordova/version" afterPath="$PROJECT_DIR$/platforms/android/cordova/version" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.idea/workspace.xml" afterPath="$PROJECT_DIR$/platforms/android/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/wpseek.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/wpseek.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/wpseek.js" afterPath="$PROJECT_DIR$/www/js/wpseek.js" />
+    </list>
+    <ignored path="WPSeekMobileAndroid.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WPSeekMobileAndroid" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Dropbox (Soccerio)\projects\Android\Misc\keystore.p12" />
+    <option name="KEY_ALIAS" value="alphawolf" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/wpseek.js" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/platforms/android/build.json" />
+        <option value="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
+        <option value="$PROJECT_DIR$/platforms/android/ant.properties" />
+        <option value="$PROJECT_DIR$/platforms/android/release-signing.properties" />
+        <option value="$PROJECT_DIR$/build.json" />
+        <option value="$PROJECT_DIR$/platforms/android/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPSeekMobileAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Misc/keystore.keystore" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="ExportedModule" value="WPSeekMobileAndroid" />
+    <property name="ExportedApkPath" value="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\WPSeekMobileAndroid.apk" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dropbox (Soccerio)\projects\Android\WPSeekMobileAndroid\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEngineRunConfiguration" factoryName="App Engine DevAppServer">
+      <module name="" />
+      <setting name="serverAddress" value="" />
+      <setting name="sdkPath" value="" />
+      <setting name="serverPort" value="" />
+      <setting name="vmArgs" value="" />
+      <setting name="warPath" value="" />
+      <setting name="sync" value="false" />
+      <setting name="disableUpdateCheck" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="871ecb47-42a5-40f6-a828-108262223f0a" name="Default" comment="" />
+      <created>1448108510032</created>
+      <option name="number" value="Default" />
+      <updated>1448108510032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.620438">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029616725">
+          <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/android.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/android.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15482695">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37362638">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3652174">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029565217">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6585366">
+          <caret line="226" column="91" selection-start-line="226" selection-start-column="91" selection-end-line="226" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.093065694">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/wpseek.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67421603">
+          <caret line="33" column="97" selection-start-line="33" selection-start-column="97" selection-end-line="33" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WPSeekMobileAndroid</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
