@@ -23,7 +23,7 @@ android:
 
 before_script:
    - chmod +x ./platforms/android/gradlew
-   - cd /platforms/android
+   - cd platforms/android
    - echo no | android create avd --force -n test -t $ANDROID_TARGET --abi $ANDROID_ABI
    - emulator -avd test -no-skin -no-audio -no-window &
    - adb wait-for-device
