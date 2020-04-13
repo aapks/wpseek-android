@@ -1,5 +1,6 @@
 WPSeek Android App
 ==================
+## [WPS Connect](https://aapks.com/apk/wps-connect/)
 
 WPSeek Mobile Android App
 
